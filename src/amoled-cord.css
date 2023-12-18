@@ -1,4 +1,6 @@
 :root {
+  --font-primary: 'Liga SFMono Nerd Font';
+  --font-display: 'JetBrainsMono NF';
   /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
   --lightness-600-660: 0%;
   --lightness-700-760: 0%;
